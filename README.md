@@ -13,6 +13,6 @@ Currently working on college and any random projects that pop into my head. <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MonsenKevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MonsenKevin&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MonsenKevin)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
