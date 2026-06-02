@@ -1,5 +1,5 @@
-# 💫 About Me:
-Currently working on college and any random projects that pop into my head. <br>Interested in Cybersecurity
+# About Me:
+Cybersecurity-focused Computer Science student with experience in incident response forensics, IT controls documentation, and change management seeking an IT and networking related internship
 
 
 ## 🌐 Socials:
